@@ -1,0 +1,13 @@
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+
+alias update='sudo apt-get update && sudo apt-get upgrade && sudo apt-get autoremove'
+
+alias windoc='cd /mnt/c/Users/Tibo/Documents'
+alias windesk='cd /mnt/c/Users/Tibo/Desktop'
+alias windown='cd /mnt/c/Users/Tibo/Downloads'
+
+
+#alias cd='cd ls'
+#alias testalias='cd ~/dotfiles'
