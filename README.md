@@ -3,4 +3,4 @@
 Add ``source ~/dotfiles/bash/.bashrc`` to ``~/.bashrc``
 
 ## vim
-Add ``so /dotfiles/vim/.vimrc`` to ``~/.vimrc``
+Add ``so ~/dotfiles/vim/.vimrc`` to ``~/.vimrc``
