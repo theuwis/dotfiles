@@ -1,4 +1,4 @@
-#dotfiles
+# dotfiles
 ## bash
 Add ``source ~/dotfiles/bash/.bashrc`` to ``~/.bashrc``
 
